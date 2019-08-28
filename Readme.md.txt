@@ -1,6 +1,6 @@
 # Human Resources Analytics 
 
-Capstone project for Udacity Machine Learning Nanodegree
+Capstone project for Udacity Data Scientist Nanodegree
 
 
 ### Dataset Link
@@ -14,16 +14,16 @@ Capstone project for Udacity Machine Learning Nanodegree
 
 ### Attribute Information
 
-•	satisfaction_level: Employee satisfaction level, scaling 0 to 1
-•	last_evaluation: Last evaluation, scaling 0 to 1
-•	number_project: Number of projects
-•	Average monthly hours
-•	time_spend_company: Time spent at the company in years
-•	Work_accident: Whether they have had a work accident
-•	promotion_last_5years: Whether they have had a promotion in the last 5 years
-•	Sales: Department the employee works for
-•	Salary: - salary level low, medium or high
-•	**left: Whether the employee has left 0 or 1 (target variable)**
+â€¢	satisfaction_level: Employee satisfaction level, scaling 0 to 1
+â€¢	last_evaluation: Last evaluation, scaling 0 to 1
+â€¢	number_project: Number of projects
+â€¢	Average monthly hours
+â€¢	time_spend_company: Time spent at the company in years
+â€¢	Work_accident: Whether they have had a work accident
+â€¢	promotion_last_5years: Whether they have had a promotion in the last 5 years
+â€¢	Sales: Department the employee works for
+â€¢	Salary: - salary level low, medium or high
+â€¢	**left: Whether the employee has left 0 or 1 (target variable)**
 
 
 ### Software Requirements

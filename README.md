@@ -1,11 +1,12 @@
 # Human Resources Analytics 
 
 Capstone project for Udacity Data Scientist Nanodegree
-
-
+### Blog Post Link
+* [https://dalal-alwedaah.github.io/](https://dalal-alwedaah.github.io/)
 ### Dataset Link
 
 * [Human Resources Data](https://www.kaggle.com/colara/human-resource/downloads/HR_comma_sep.csv/1)
+
 
 ### Dataset Information
 
